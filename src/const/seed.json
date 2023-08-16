@@ -1,0 +1,1282 @@
+[
+  {
+    "reservation": [
+      {
+        "id": "b5bcdbc5-87c2-4e01-b6ed-7386c8101415",
+        "table_status": "Available",
+        "created_at": "2023-08-16T07:09:27.282Z",
+        "updated_at": "2023-08-16T11:10:07.752Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "822bfd1b-4aab-4622-bf5b-4611fc13e703",
+        "table_status": "Booked",
+        "created_at": "2023-08-15T19:44:45.639Z",
+        "updated_at": "2023-08-16T06:50:12.921Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "344efa81-e588-448b-baaf-3a05a9a15677",
+        "table_status": "Occupied",
+        "created_at": "2023-08-15T18:18:01.166Z",
+        "updated_at": "2023-08-16T10:30:06.227Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "d801d5e9-4760-46fc-898b-c6d99b3d4534",
+        "table_status": "Reserved",
+        "created_at": "2023-08-15T16:54:55.735Z",
+        "updated_at": "2023-08-15T19:50:23.090Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "33fe462c-fbc6-4ff2-8467-01ccc335228d",
+        "table_status": "Vacant",
+        "created_at": "2023-08-16T08:36:44.296Z",
+        "updated_at": "2023-08-15T17:05:20.421Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "c216d2fc-f9ed-420a-ba56-f3ec8b1fb41e",
+        "name": "Margherita Pizza",
+        "created_at": "2023-08-16T00:49:38.216Z",
+        "updated_at": "2023-08-15T13:31:04.003Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "29abb3bc-1278-4329-9e98-ef27b1f11ccb",
+        "name": "Sashimi Platter",
+        "created_at": "2023-08-15T14:14:39.911Z",
+        "updated_at": "2023-08-16T01:56:57.525Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "4aecba56-39ad-4e2a-8912-f855f3ee7114",
+        "name": "Taco Al Pastor",
+        "created_at": "2023-08-15T18:44:57.604Z",
+        "updated_at": "2023-08-16T11:50:24.812Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "9cc1a50a-fc90-4aad-a791-c2fa639517eb",
+        "name": "Filet Mignon",
+        "created_at": "2023-08-16T02:14:51.257Z",
+        "updated_at": "2023-08-16T07:05:46.328Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "2cfbe523-bae3-4b61-aba8-7ca275634b7d",
+        "name": "Crème Brûlée",
+        "created_at": "2023-08-16T07:40:26.283Z",
+        "updated_at": "2023-08-16T06:27:07.750Z",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "73616653-6e92-49a7-a892-b3447dc7079c",
+        "email": "Jaida79@hotmail.com",
+        "firstName": "Keith",
+        "lastName": "Franecki",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/828.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5e0f9cea-9f68-404f-8836-38a047f93309",
+        "email": "Nicole.Cremin@gmail.com",
+        "firstName": "Micah",
+        "lastName": "Cummings",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36868837",
+        "tenantId": null
+      },
+      {
+        "reference": "06b7edab-f429-49cc-a78b-eff0e76f5b98",
+        "email": "Breana42@hotmail.com",
+        "firstName": "Jayme",
+        "lastName": "Carroll",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55113850",
+        "tenantId": null
+      },
+      {
+        "reference": "135235d1-ad99-4114-94a7-9dca0dad55fb",
+        "email": "Jamel_Lakin@gmail.com",
+        "firstName": "Sarah",
+        "lastName": "Gleichner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/541.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "813c51f2-1e04-45d6-985c-c76e20e636e3",
+        "email": "Raina_Hermiston@gmail.com",
+        "firstName": "Bradley",
+        "lastName": "Terry",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/793.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reservation": [
+      {
+        "id": "2d1293cc-8278-4ae4-92e2-b8eeed061480",
+        "table_status": "Available",
+        "created_at": "2023-08-15T15:25:13.932Z",
+        "updated_at": "2023-08-15T13:24:08.170Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "ba90a9e0-4e28-430d-b0dc-ad64529107c6",
+        "table_status": "Booked",
+        "created_at": "2023-08-16T02:17:38.673Z",
+        "updated_at": "2023-08-16T04:36:33.097Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "08f4c10c-257a-4750-b90e-69e68a0ed345",
+        "table_status": "Occupied",
+        "created_at": "2023-08-15T19:27:31.239Z",
+        "updated_at": "2023-08-15T13:20:26.883Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "b518b98a-6506-4fed-8330-389186fc0b90",
+        "table_status": "Reserved",
+        "created_at": "2023-08-16T05:23:31.073Z",
+        "updated_at": "2023-08-15T22:24:38.656Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "6e461c74-131a-4ed1-91db-d3b218cd35f5",
+        "table_status": "Vacant",
+        "created_at": "2023-08-16T09:06:34.576Z",
+        "updated_at": "2023-08-15T20:21:31.859Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "ddcd3208-300c-4225-8294-8e1f9c03cbfb",
+        "name": "Margherita Pizza",
+        "created_at": "2023-08-16T00:20:04.276Z",
+        "updated_at": "2023-08-15T21:22:26.249Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "3904d953-dff3-4abe-b378-627108d7119d",
+        "name": "Sashimi Platter",
+        "created_at": "2023-08-15T16:14:18.289Z",
+        "updated_at": "2023-08-15T17:39:54.898Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "b4606e28-75e5-496b-bdc6-eb19d83882fe",
+        "name": "Taco Al Pastor",
+        "created_at": "2023-08-15T19:20:48.911Z",
+        "updated_at": "2023-08-16T02:03:55.587Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "0854d2d9-6d3f-4394-92c9-9d515c20b001",
+        "name": "Filet Mignon",
+        "created_at": "2023-08-15T20:26:06.843Z",
+        "updated_at": "2023-08-15T21:28:29.975Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "2ed8ed5b-dfcc-4ad2-86ac-b87cd435735d",
+        "name": "Crème Brûlée",
+        "created_at": "2023-08-16T06:01:40.742Z",
+        "updated_at": "2023-08-16T12:54:06.551Z",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "54ac234e-774d-42ee-963c-f646c62e38d9",
+        "email": "Drake51@gmail.com",
+        "firstName": "Madisen",
+        "lastName": "Jakubowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63342426",
+        "tenantId": null
+      },
+      {
+        "reference": "d49cff77-f25e-4035-820a-65daea43fe4a",
+        "email": "Destinee_Labadie42@hotmail.com",
+        "firstName": "Clifton",
+        "lastName": "Hammes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6694607",
+        "tenantId": null
+      },
+      {
+        "reference": "10766d7c-fe32-4d11-a171-ff07b17ed5fe",
+        "email": "Kirk_Bernier48@gmail.com",
+        "firstName": "Kailee",
+        "lastName": "Kuhlman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17773782",
+        "tenantId": null
+      },
+      {
+        "reference": "73745bde-8220-4faa-b600-a3fe8c82401d",
+        "email": "Edward.Veum89@yahoo.com",
+        "firstName": "Justen",
+        "lastName": "Medhurst",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60875612",
+        "tenantId": null
+      },
+      {
+        "reference": "0d02aacc-8feb-479b-a65a-1b4f35c96855",
+        "email": "Prudence_Mann@hotmail.com",
+        "firstName": "Madie",
+        "lastName": "Schiller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/175.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reservation": [
+      {
+        "id": "07228db5-421d-4463-949d-f3331c548352",
+        "table_status": "Available",
+        "created_at": "2023-08-16T03:56:12.296Z",
+        "updated_at": "2023-08-15T20:32:37.482Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "8616c419-5b56-41a9-84a7-dee525de60d5",
+        "table_status": "Booked",
+        "created_at": "2023-08-15T22:14:09.743Z",
+        "updated_at": "2023-08-16T10:30:57.851Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "44ea8df9-c558-421b-8b3b-a32120d01546",
+        "table_status": "Occupied",
+        "created_at": "2023-08-16T13:03:26.239Z",
+        "updated_at": "2023-08-16T00:53:28.897Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "7d9289d3-b2d3-4911-b654-4b2245f6e836",
+        "table_status": "Reserved",
+        "created_at": "2023-08-16T03:29:09.659Z",
+        "updated_at": "2023-08-16T01:38:33.548Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "4e60af88-b047-4f79-9437-c56dbe7aa85c",
+        "table_status": "Vacant",
+        "created_at": "2023-08-16T02:01:53.890Z",
+        "updated_at": "2023-08-16T02:21:05.524Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "a741598b-0cdf-42e8-9aaf-695e32914150",
+        "name": "Margherita Pizza",
+        "created_at": "2023-08-16T02:23:30.504Z",
+        "updated_at": "2023-08-16T03:44:14.904Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "c9c688f0-63c0-4eea-8458-6ef23cbc3e5e",
+        "name": "Sushi Platter",
+        "created_at": "2023-08-15T23:38:49.969Z",
+        "updated_at": "2023-08-16T02:40:41.364Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "c04a04e5-6604-4fe3-a5a4-4885ff58d562",
+        "name": "Classic Cheeseburger",
+        "created_at": "2023-08-16T08:50:53.746Z",
+        "updated_at": "2023-08-16T10:54:49.840Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "daea413a-0f44-4a2a-be19-1021caad4e67",
+        "name": "Quinoa Salad",
+        "created_at": "2023-08-16T06:38:39.431Z",
+        "updated_at": "2023-08-16T07:54:35.258Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "26106334-acad-41f8-9875-61589a09551c",
+        "name": "Filet Mignon",
+        "created_at": "2023-08-15T19:02:13.254Z",
+        "updated_at": "2023-08-16T00:10:03.322Z",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e71426d8-b3ab-4e0b-a3bd-33de8b55e962",
+        "email": "Felton.Stamm83@hotmail.com",
+        "firstName": "Durward",
+        "lastName": "Gibson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71593873",
+        "tenantId": null
+      },
+      {
+        "reference": "e524ec54-a5da-46dc-9ddc-7a9980742b76",
+        "email": "Mateo_Volkman21@hotmail.com",
+        "firstName": "Jerry",
+        "lastName": "Mills",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1205.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6593e413-9d52-4567-bac3-a2c4ff04039d",
+        "email": "Gilbert70@yahoo.com",
+        "firstName": "Erin",
+        "lastName": "Dickinson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23546407",
+        "tenantId": null
+      },
+      {
+        "reference": "c34feb7a-2d7e-486f-bff5-c42927d54ac4",
+        "email": "Flavie89@hotmail.com",
+        "firstName": "Chadd",
+        "lastName": "Aufderhar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77266095",
+        "tenantId": null
+      },
+      {
+        "reference": "41de3fda-fcdb-4914-9965-4b7918297b6f",
+        "email": "Joan.Boyer@yahoo.com",
+        "firstName": "Nichole",
+        "lastName": "Kassulke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64687379",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reservation": [
+      {
+        "id": "c630cb6e-0826-4120-9092-df8733f5347f",
+        "table_status": "Available",
+        "created_at": "2023-08-15T18:50:40.637Z",
+        "updated_at": "2023-08-16T06:22:32.448Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "42690b5d-8d28-4587-a64c-b41cc7df2396",
+        "table_status": "Booked",
+        "created_at": "2023-08-15T21:41:21.505Z",
+        "updated_at": "2023-08-16T03:21:59.219Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "cf83373a-e75d-4903-b613-adf210deb8b9",
+        "table_status": "Occupied",
+        "created_at": "2023-08-16T03:48:55.931Z",
+        "updated_at": "2023-08-16T12:49:30.135Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "59d5f879-1525-4713-8916-18d15bb3072a",
+        "table_status": "Reserved",
+        "created_at": "2023-08-16T04:04:08.924Z",
+        "updated_at": "2023-08-16T10:33:56.296Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "840436c4-b376-42f2-b01d-119f50c3e5b2",
+        "table_status": "Vacant",
+        "created_at": "2023-08-15T17:02:57.676Z",
+        "updated_at": "2023-08-15T14:46:44.279Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "44d806ea-c606-44d3-854e-025aaa803164",
+        "name": "Margherita Pizza",
+        "created_at": "2023-08-15T15:54:01.076Z",
+        "updated_at": "2023-08-16T12:41:14.585Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "87d21946-b1d0-49a3-a1e2-0c5ed2d384fc",
+        "name": "Sushi Platter",
+        "created_at": "2023-08-16T06:31:08.460Z",
+        "updated_at": "2023-08-16T04:06:40.568Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "d9a4f9eb-b84c-4ec3-b552-7fda09d9b49e",
+        "name": "Cheeseburger",
+        "created_at": "2023-08-15T17:08:51.377Z",
+        "updated_at": "2023-08-16T01:30:42.707Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "8c5c9fe1-ea91-4f7d-8926-494d5ee5c853",
+        "name": "Grilled Salmon",
+        "created_at": "2023-08-16T12:17:55.969Z",
+        "updated_at": "2023-08-15T20:47:09.708Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "91cc4402-ace6-4c8d-8ad9-f8036e0cfbc2",
+        "name": "Ribeye Steak",
+        "created_at": "2023-08-15T15:19:03.876Z",
+        "updated_at": "2023-08-15T21:03:05.889Z",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "caf5e88a-a1ee-4626-b229-8efe65cfaae3",
+        "email": "Torrance.Bergstrom@yahoo.com",
+        "firstName": "Onie",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/999.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5fdb891e-ba9c-45f9-859b-b16d70b27707",
+        "email": "Shea.Anderson16@hotmail.com",
+        "firstName": "Tianna",
+        "lastName": "McGlynn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/974.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e1726dbc-1271-4192-9ab6-f7ab2a3463ed",
+        "email": "Ruthie.Berge@gmail.com",
+        "firstName": "Braxton",
+        "lastName": "Hirthe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84111495",
+        "tenantId": null
+      },
+      {
+        "reference": "ef73b796-fa35-46da-9a79-76d6cfabf8d3",
+        "email": "Ike7@gmail.com",
+        "firstName": "Maxie",
+        "lastName": "Macejkovic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8353946",
+        "tenantId": null
+      },
+      {
+        "reference": "2eca0b70-24db-441d-b07f-94e6e055e1f2",
+        "email": "Cora.Balistreri@gmail.com",
+        "firstName": "Leanne",
+        "lastName": "Connelly",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16434900",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reservation": [
+      {
+        "id": "58f0bc11-5cb6-47fb-8f09-f7f971aa36c9",
+        "table_status": "Available",
+        "created_at": "2023-08-16T10:36:59.270Z",
+        "updated_at": "2023-08-16T10:33:13.079Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "acd935c9-95e6-415d-83b7-9b646ce714ad",
+        "table_status": "Booked",
+        "created_at": "2023-08-16T02:12:33.598Z",
+        "updated_at": "2023-08-16T07:48:45.788Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "9b42b0bd-c43b-4faf-b599-2646ba9d85c5",
+        "table_status": "Occupied",
+        "created_at": "2023-08-16T07:59:55.458Z",
+        "updated_at": "2023-08-16T13:08:39.462Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "35caa0ee-3b08-47e8-be1e-37381981d59f",
+        "table_status": "Reserved",
+        "created_at": "2023-08-16T12:39:23.209Z",
+        "updated_at": "2023-08-16T00:10:42.714Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "adfa5163-ab76-4c6e-8c16-dbbcb1af149d",
+        "table_status": "Vacant",
+        "created_at": "2023-08-15T14:39:44.648Z",
+        "updated_at": "2023-08-16T07:10:04.143Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "873e6c14-b2b8-4b1c-873e-25af6ba0b7ca",
+        "name": "Margherita Pizza",
+        "created_at": "2023-08-15T16:33:15.878Z",
+        "updated_at": "2023-08-15T17:35:41.801Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "cf2c5e6c-86e5-45b7-84aa-0d2c32cddf57",
+        "name": "Sashimi Platter",
+        "created_at": "2023-08-16T01:12:37.824Z",
+        "updated_at": "2023-08-16T00:27:28.114Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "64205d50-f417-41da-aeae-63fdd9dfcc11",
+        "name": "Taco Al Pastor",
+        "created_at": "2023-08-15T15:56:41.012Z",
+        "updated_at": "2023-08-15T18:55:05.914Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "404bce61-b971-427d-a18a-8f7f5fe342d3",
+        "name": "Filet Mignon",
+        "created_at": "2023-08-16T01:29:52.491Z",
+        "updated_at": "2023-08-15T13:44:22.051Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "fdb88119-e923-4a20-8d04-fb3532319fac",
+        "name": "Crème Brûlée",
+        "created_at": "2023-08-16T10:03:16.781Z",
+        "updated_at": "2023-08-16T00:49:53.746Z",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a4f25423-8879-4469-95d0-d3b18564b7af",
+        "email": "Wayne.Nikolaus@yahoo.com",
+        "firstName": "Bonita",
+        "lastName": "Bahringer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96134813",
+        "tenantId": null
+      },
+      {
+        "reference": "117db881-4ba2-4498-92e0-2e7d4ed513ff",
+        "email": "Kobe.Jacobs64@yahoo.com",
+        "firstName": "Alexanne",
+        "lastName": "Ledner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57361740",
+        "tenantId": null
+      },
+      {
+        "reference": "3f3a01e4-605d-4a91-ab7a-8b605c0340df",
+        "email": "Velma_Haag88@gmail.com",
+        "firstName": "Elbert",
+        "lastName": "Hessel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/297.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "de238d29-575e-4da5-ab70-9d7aa34c7bba",
+        "email": "Cathrine_Johns@gmail.com",
+        "firstName": "Tania",
+        "lastName": "Koepp",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/942.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "adedbecf-0f65-4545-a714-7765aef281b2",
+        "email": "Cletus.Considine@hotmail.com",
+        "firstName": "Daisha",
+        "lastName": "Skiles",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51687668",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reservation": [
+      {
+        "id": "30e08e04-8f43-4f4a-943d-ddef1b8a0ab9",
+        "table_status": "Available",
+        "created_at": "2023-08-15T13:51:51.961Z",
+        "updated_at": "2023-08-16T05:40:58.110Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "9944c571-d860-4ecc-a3e0-35df96a6c12b",
+        "table_status": "Booked",
+        "created_at": "2023-08-16T10:12:14.148Z",
+        "updated_at": "2023-08-16T12:04:39.777Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "5cb97c62-fa24-45c7-be4a-3567dc7faa76",
+        "table_status": "Occupied",
+        "created_at": "2023-08-15T16:18:17.889Z",
+        "updated_at": "2023-08-16T07:05:16.384Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "f87d38f8-5809-4028-a707-08845366965c",
+        "table_status": "Reserved",
+        "created_at": "2023-08-16T08:17:04.475Z",
+        "updated_at": "2023-08-16T05:59:54.399Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "71bff79d-4d04-4de6-8b19-4ebafe3725ed",
+        "table_status": "Vacant",
+        "created_at": "2023-08-15T13:35:56.906Z",
+        "updated_at": "2023-08-16T06:35:41.664Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "cc04187e-538b-4d0a-9443-8d2aba24441e",
+        "name": "Margherita Pizza",
+        "created_at": "2023-08-16T05:34:58.555Z",
+        "updated_at": "2023-08-15T18:03:16.306Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "41f706d5-9204-4cb8-8d01-2dd84b5d279a",
+        "name": "Sashimi Platter",
+        "created_at": "2023-08-16T06:17:37.546Z",
+        "updated_at": "2023-08-16T11:24:49.476Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "d1e4494a-537f-4d7f-8cea-3f9ee9a5d6e3",
+        "name": "Taco Al Pastor",
+        "created_at": "2023-08-16T06:11:00.314Z",
+        "updated_at": "2023-08-16T03:44:23.558Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "d576166e-c2d2-4fdf-be26-1734b51addc5",
+        "name": "Filet Mignon",
+        "created_at": "2023-08-16T05:12:18.246Z",
+        "updated_at": "2023-08-16T11:54:12.952Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "a58cbbc7-6e8d-48fb-af18-8999827480e2",
+        "name": "Crème Brûlée",
+        "created_at": "2023-08-16T05:02:16.153Z",
+        "updated_at": "2023-08-15T19:21:48.873Z",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "54177126-a8a9-4136-ad3a-9a50342617de",
+        "email": "Tommie93@hotmail.com",
+        "firstName": "Daren",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/904.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ace9fcf0-ceeb-4a1a-9d3e-e875ee7623cb",
+        "email": "Santino84@gmail.com",
+        "firstName": "Cecelia",
+        "lastName": "Romaguera",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/913.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "72c099ad-7926-4710-b238-0bd912e6fcc4",
+        "email": "Harrison92@hotmail.com",
+        "firstName": "Estevan",
+        "lastName": "Kulas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/23.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3751cc96-3faf-459a-ad32-fe0cce256000",
+        "email": "Felicita.Barrows52@yahoo.com",
+        "firstName": "Amalia",
+        "lastName": "Howe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47665736",
+        "tenantId": null
+      },
+      {
+        "reference": "794ff77e-c30c-4d52-80a0-92f9ff8fe761",
+        "email": "Bettye.Fahey70@yahoo.com",
+        "firstName": "Maxine",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1165.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reservation": [
+      {
+        "id": "8349e52d-fe12-4ab1-b277-43d6ecdb7829",
+        "table_status": "Available",
+        "created_at": "2023-08-15T19:52:24.690Z",
+        "updated_at": "2023-08-16T12:31:20.024Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "1fe50c97-30df-4c5a-b3c4-52eb1839abab",
+        "table_status": "Booked",
+        "created_at": "2023-08-16T07:56:52.276Z",
+        "updated_at": "2023-08-16T00:29:35.615Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "f52bcf26-8432-4c6a-abe7-cd037d2d30c8",
+        "table_status": "Occupied",
+        "created_at": "2023-08-15T17:07:23.819Z",
+        "updated_at": "2023-08-16T11:07:22.183Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "efcf6e30-54d6-43f7-88f1-906295d719b8",
+        "table_status": "Reserved",
+        "created_at": "2023-08-15T15:50:08.522Z",
+        "updated_at": "2023-08-16T11:28:50.447Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "10df02ed-810b-4765-a6e4-db93153f43b6",
+        "table_status": "Vacant",
+        "created_at": "2023-08-16T05:20:31.367Z",
+        "updated_at": "2023-08-15T20:02:03.053Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "f78d57fd-93a0-455f-84b0-5a1c9ddd9edb",
+        "name": "Margherita Pizza",
+        "created_at": "2023-08-16T12:41:34.668Z",
+        "updated_at": "2023-08-16T11:17:45.488Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "7a4d581b-a072-4835-8c88-61cb23cea0d1",
+        "name": "Sashimi Platter",
+        "created_at": "2023-08-16T12:19:34.094Z",
+        "updated_at": "2023-08-15T15:40:49.047Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "23257ae9-1c54-4f89-b603-178371791d80",
+        "name": "Taco Al Pastor",
+        "created_at": "2023-08-15T18:36:52.002Z",
+        "updated_at": "2023-08-15T16:27:45.452Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "21b76244-cb5d-4a52-9830-63a8db311304",
+        "name": "Filet Mignon",
+        "created_at": "2023-08-15T23:26:51.264Z",
+        "updated_at": "2023-08-16T09:23:06.938Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "cf722a93-1377-410b-96c3-529ab4894c20",
+        "name": "Crème Brûlée",
+        "created_at": "2023-08-16T13:07:44.084Z",
+        "updated_at": "2023-08-16T07:20:53.626Z",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "015b40fe-6d51-4add-9b4d-2a9951ef1ba5",
+        "email": "Geoffrey44@hotmail.com",
+        "firstName": "Amalia",
+        "lastName": "Reichel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82454436",
+        "tenantId": null
+      },
+      {
+        "reference": "7d6dde01-1503-4ff5-bf15-0ae4e329d643",
+        "email": "Ari_Grant@hotmail.com",
+        "firstName": "Carolina",
+        "lastName": "O'Conner-Smitham",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59594881",
+        "tenantId": null
+      },
+      {
+        "reference": "948eb164-2750-4c8b-a792-ab8a668282a7",
+        "email": "Cassandra.Watsica90@gmail.com",
+        "firstName": "Enrique",
+        "lastName": "Nolan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19385395",
+        "tenantId": null
+      },
+      {
+        "reference": "39a3fa69-8e14-48fd-903c-925cee5ab1cd",
+        "email": "Queenie.Goyette@gmail.com",
+        "firstName": "Rhea",
+        "lastName": "Kerluke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1011.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3fbe1854-c9e7-446a-b80d-d307065a7113",
+        "email": "Hailee.Deckow@hotmail.com",
+        "firstName": "Ransom",
+        "lastName": "Bruen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36172045",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reservation": [
+      {
+        "id": "477f4323-11c3-4663-aaec-878df0775565",
+        "table_status": "Available",
+        "created_at": "2023-08-15T17:44:54.984Z",
+        "updated_at": "2023-08-16T10:50:12.974Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "604fe11f-14af-4690-bbe6-93371d742464",
+        "table_status": "Booked",
+        "created_at": "2023-08-15T15:01:33.512Z",
+        "updated_at": "2023-08-16T11:58:10.105Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "86d02262-c9eb-4224-b22d-fba8a1c91c51",
+        "table_status": "Occupied",
+        "created_at": "2023-08-15T14:37:43.853Z",
+        "updated_at": "2023-08-15T17:43:04.182Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "c0624646-2c61-4b32-9695-5862cd29cf62",
+        "table_status": "Reserved",
+        "created_at": "2023-08-16T08:06:08.919Z",
+        "updated_at": "2023-08-15T23:33:33.461Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "cc06c611-eaff-4bf0-a106-91d78b6226d3",
+        "table_status": "Vacant",
+        "created_at": "2023-08-15T19:30:17.791Z",
+        "updated_at": "2023-08-16T09:26:58.024Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "e29db0f0-3f06-4fd8-9f46-623a91e23d86",
+        "name": "Margherita Pizza",
+        "created_at": "2023-08-16T05:51:59.558Z",
+        "updated_at": "2023-08-15T15:56:19.313Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "f3113bbd-c155-4059-98be-5fea846d3b24",
+        "name": "Sushi Platter",
+        "created_at": "2023-08-16T13:08:21.571Z",
+        "updated_at": "2023-08-15T20:19:04.040Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "13b0b406-1d0b-4e6f-973b-ad87b2ece9be",
+        "name": "Classic Cheeseburger",
+        "created_at": "2023-08-16T05:25:03.386Z",
+        "updated_at": "2023-08-15T16:54:01.075Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "c3f27d30-1fc4-434c-8615-727eab6adb62",
+        "name": "Quinoa Salad",
+        "created_at": "2023-08-16T10:13:30.496Z",
+        "updated_at": "2023-08-16T04:13:42.448Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "1ac60a93-5032-47e3-94d1-5ab28fe8b71c",
+        "name": "Filet Mignon",
+        "created_at": "2023-08-15T14:49:58.859Z",
+        "updated_at": "2023-08-15T20:26:06.691Z",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "71ca3cef-020a-46b6-b877-9412544c64ff",
+        "email": "Lurline19@hotmail.com",
+        "firstName": "Davonte",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64946754",
+        "tenantId": null
+      },
+      {
+        "reference": "7ec6fb0b-e743-4993-a574-65ac40124a9f",
+        "email": "Gerda.Quigley@yahoo.com",
+        "firstName": "Pablo",
+        "lastName": "Champlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/460.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6e3a5d57-8dad-4732-b4d9-6097995e9d98",
+        "email": "Emmalee_Pouros25@hotmail.com",
+        "firstName": "Sunny",
+        "lastName": "Dietrich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10441267",
+        "tenantId": null
+      },
+      {
+        "reference": "0a1accd3-69c8-46aa-aa3d-a300a719f757",
+        "email": "Brown53@yahoo.com",
+        "firstName": "Noelia",
+        "lastName": "Krajcik",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56453980",
+        "tenantId": null
+      },
+      {
+        "reference": "07e5cdec-f245-4562-a1b6-58c9b6ea8cfe",
+        "email": "Kane_Funk97@yahoo.com",
+        "firstName": "Isabelle",
+        "lastName": "Glover",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/428.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reservation": [
+      {
+        "id": "2607c0b9-71d3-415d-b0e5-ab77248334ec",
+        "table_status": "Available",
+        "created_at": "2023-08-15T22:37:04.892Z",
+        "updated_at": "2023-08-16T12:23:58.506Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "c014c1b5-38c2-46b4-900d-c6607d89ee7c",
+        "table_status": "Booked",
+        "created_at": "2023-08-16T10:44:28.844Z",
+        "updated_at": "2023-08-15T19:10:46.839Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "55d7d7dc-9fea-4c78-bfa5-b8be81ac9b91",
+        "table_status": "Occupied",
+        "created_at": "2023-08-16T04:10:53.504Z",
+        "updated_at": "2023-08-15T19:42:00.677Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "8312b3a9-413f-4ffd-a15f-18ee0a113c04",
+        "table_status": "Reserved",
+        "created_at": "2023-08-15T17:06:09.960Z",
+        "updated_at": "2023-08-16T08:28:20.951Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "65886f52-b0dc-41ea-b4dd-93ae80e5a73e",
+        "table_status": "Vacant",
+        "created_at": "2023-08-16T08:57:01.632Z",
+        "updated_at": "2023-08-15T18:09:32.608Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "750002df-8edd-4e0a-95c0-d73b435df78f",
+        "name": "Margherita Pizza",
+        "created_at": "2023-08-15T14:15:51.827Z",
+        "updated_at": "2023-08-16T12:56:18.678Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "1139e8d3-a401-4127-b677-f4cb9b6cee19",
+        "name": "Sashimi Platter",
+        "created_at": "2023-08-16T03:23:32.166Z",
+        "updated_at": "2023-08-16T11:17:41.719Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "fbc99703-5185-421c-8344-df88ab221df9",
+        "name": "Taco Al Pastor",
+        "created_at": "2023-08-16T03:33:18.342Z",
+        "updated_at": "2023-08-16T11:18:34.251Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "39660901-cb88-4239-a40b-ac3edd8c2662",
+        "name": "Filet Mignon",
+        "created_at": "2023-08-16T07:04:19.478Z",
+        "updated_at": "2023-08-15T14:48:53.821Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "5c86c3d0-d430-4b3c-ba8b-33b69b025606",
+        "name": "Crème Brûlée",
+        "created_at": "2023-08-15T19:10:24.519Z",
+        "updated_at": "2023-08-16T02:57:45.014Z",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "12543c12-327c-437b-81e0-32954e74a99c",
+        "email": "Kaylie_Walter@gmail.com",
+        "firstName": "Katarina",
+        "lastName": "Mante-Barrows",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/21.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7b150ff0-2518-47ba-905a-6931fd2b6fcf",
+        "email": "Aurore_Boyer@gmail.com",
+        "firstName": "Ardella",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/485.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c9bafc77-f7a7-4ff0-9be9-d98d76d53b4b",
+        "email": "Pamela25@gmail.com",
+        "firstName": "Penelope",
+        "lastName": "Macejkovic",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/808.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "68f566c5-6e1f-4581-8a16-e056fe5c77ed",
+        "email": "Kirsten_Hagenes@yahoo.com",
+        "firstName": "Vena",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/555.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4a5887f8-716c-4ae5-9abf-8a688755f92e",
+        "email": "Terrance.Boyer@hotmail.com",
+        "firstName": "Martine",
+        "lastName": "Russel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72276629",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "reservation": [
+      {
+        "id": "a314ce92-9b97-4f68-844d-22a2c944c7f2",
+        "table_status": "Available",
+        "created_at": "2023-08-15T21:50:17.224Z",
+        "updated_at": "2023-08-16T00:10:43.217Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "63fbd4c9-0ee8-45e0-b7db-997693c3c88f",
+        "table_status": "Booked",
+        "created_at": "2023-08-15T17:54:15.610Z",
+        "updated_at": "2023-08-16T00:28:47.760Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "d70c6526-9398-4e57-adf2-3953bd5b2885",
+        "table_status": "Occupied",
+        "created_at": "2023-08-15T15:42:26.013Z",
+        "updated_at": "2023-08-16T04:09:18.832Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "78088798-43d8-4429-b68b-4df527169915",
+        "table_status": "Reserved",
+        "created_at": "2023-08-16T02:02:17.938Z",
+        "updated_at": "2023-08-16T02:28:32.524Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "620bf6df-5836-4f54-bc8e-04953bd9d5df",
+        "table_status": "Vacant",
+        "created_at": "2023-08-16T04:18:22.087Z",
+        "updated_at": "2023-08-16T04:33:04.988Z",
+        "customer_id": "user_entity_pk",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "b35eda9a-9dc0-4cd0-920f-44cd9da481f2",
+        "name": "Margherita Pizza",
+        "created_at": "2023-08-16T07:36:31.261Z",
+        "updated_at": "2023-08-16T12:36:51.235Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "61b01a59-82bd-446c-b8c4-36f51390bbad",
+        "name": "Sushi Platter",
+        "created_at": "2023-08-16T05:11:56.541Z",
+        "updated_at": "2023-08-16T09:15:50.546Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "b14c98f2-0a19-496b-8f61-1d2225ec5326",
+        "name": "Cheeseburger",
+        "created_at": "2023-08-16T06:01:16.999Z",
+        "updated_at": "2023-08-16T10:51:30.181Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "02f5d502-286d-4418-8e33-41d6aedea8ac",
+        "name": "Filet Mignon",
+        "created_at": "2023-08-15T22:54:49.771Z",
+        "updated_at": "2023-08-16T11:30:20.291Z",
+        "restaurant_id": "main_entity_pk"
+      },
+      {
+        "id": "9ee97344-763e-42cb-94c7-92d68900bafd",
+        "name": "Chocolate Mousse",
+        "created_at": "2023-08-16T07:37:20.722Z",
+        "updated_at": "2023-08-16T09:21:56.608Z",
+        "restaurant_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0ab79401-4b3c-435b-908c-dfb4323d9c14",
+        "email": "Gust_Friesen@yahoo.com",
+        "firstName": "Catharine",
+        "lastName": "Hegmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/843.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e57ff5a7-82d1-4795-b380-8c9b564d4080",
+        "email": "Henri48@hotmail.com",
+        "firstName": "Jayson",
+        "lastName": "Pollich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/414.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3ce538cf-5c8b-4c75-a7d2-293414f4551f",
+        "email": "Augusta.Baumbach22@gmail.com",
+        "firstName": "Lonnie",
+        "lastName": "Roob",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50040932",
+        "tenantId": null
+      },
+      {
+        "reference": "64412f04-ad1f-4f32-b30a-9b40f5bce338",
+        "email": "Hipolito50@gmail.com",
+        "firstName": "Nathen",
+        "lastName": "Pollich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97015391",
+        "tenantId": null
+      },
+      {
+        "reference": "5517ec1e-b5ae-4b78-bf06-129c8969c24f",
+        "email": "Rory_Keebler@yahoo.com",
+        "firstName": "Grace",
+        "lastName": "Daniel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2590280",
+        "tenantId": null
+      }
+    ]
+  }
+]
